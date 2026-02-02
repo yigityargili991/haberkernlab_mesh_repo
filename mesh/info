@@ -18,7 +18,7 @@
       10752
     ]
   },
-  "vertex_quantization_bits": 16,
+  "vertex_quantization_bits": 10,
   "transform": [
     1600,
     0,
