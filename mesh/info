@@ -18,19 +18,19 @@
       10752
     ]
   },
-  "vertex_quantization_bits": 10,
+  "vertex_quantization_bits": 16,
   "transform": [
-    1600,
+    8,
     0,
     0,
     0,
     0,
-    1600,
+    8,
     0,
     0,
     0,
     0,
-    840,
+    42,
     0
   ],
   "lod_scale_multiplier": 1.0,
