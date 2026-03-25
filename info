@@ -30,5 +30,6 @@
       ]
     }
   ],
+  "segment_properties": "segment_properties",
   "type": "segmentation"
 }
