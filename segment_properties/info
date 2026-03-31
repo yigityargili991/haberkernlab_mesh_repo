@@ -36,7 +36,8 @@
       "32",
       "33",
       "34",
-      "35"
+      "35",
+      "36"
     ],
     "properties": [
       {
@@ -54,6 +55,7 @@
           "fan_shaped_body",
           "ellipsoid_body",
           "protocerebral_bridge",
+          "nodulus_left",
           "optic_lobe_left",
           "optic_lobe_right",
           "lateral_horn_left",
@@ -74,10 +76,10 @@
           "bulb_right",
           "posterior_optic_tubercle_left",
           "posterior_optic_tubercle_right",
-          "NOc",
-          "NOm1",
-          "NOm2",
-          "NOs"
+          "NOc_r",
+          "NOm1_r",
+          "NOm2_r",
+          "NOs_r"
         ]
       }
     ]
