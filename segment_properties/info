@@ -37,7 +37,13 @@
       "33",
       "34",
       "35",
-      "36"
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
     ],
     "properties": [
       {
@@ -79,7 +85,13 @@
           "NOc_l",
           "NOm1_l",
           "NOm2_l",
-          "NOs_l"
+          "NOs_l",
+          "fan_shaped_body_layer_1",
+          "fan_shaped_body_layer_2",
+          "fan_shaped_body_layer_3",
+          "fan_shaped_body_layer_4",
+          "fan_shaped_body_layer_5",
+          "fan_shaped_body_layer_6"
         ]
       }
     ]
