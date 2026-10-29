@@ -43,7 +43,15 @@
       "39",
       "40",
       "41",
-      "42"
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
     ],
     "properties": [
       {
@@ -91,7 +99,15 @@
           "fan_shaped_body_layer_3",
           "fan_shaped_body_layer_4",
           "fan_shaped_body_layer_5",
-          "fan_shaped_body_layer_6"
+          "fan_shaped_body_layer_6",
+          "pb_glomerulus_L1",
+          "pb_glomerulus_L2",
+          "pb_glomerulus_L3",
+          "pb_glomerulus_L4",
+          "pb_glomerulus_L9",
+          "pb_glomerulus_R4",
+          "pb_glomerulus_R6",
+          "pb_glomerulus_R9"
         ]
       }
     ]
