@@ -60,7 +60,6 @@
     "4": 54
   },
   "crantpy_analysis/mesh_creation/fb_layers_v2.py run 20261030_121434 (synapses_v3_clean, materialization 541)": {
-    "1": 37,
     "2": 38,
     "3": 39,
     "4": 40,
@@ -70,5 +69,8 @@
   "crantpy_analysis/mesh_creation/bulb_meshes_v2.py run 20261030_122156 (synapses_v3_clean, materialization 541)": {
     "1": 29,
     "2": 30
+  },
+  "crantpy_analysis/mesh_creation/fb_layers_v2.py run 20261030_121434 (synapses_v3_clean, materialization 541); flat pieces removed by crantpy_analysis/mesh_creation/drop_flat_mesh_pieces.py": {
+    "1": 37
   }
 }
