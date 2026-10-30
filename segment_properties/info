@@ -51,7 +51,11 @@
       "47",
       "48",
       "49",
-      "50"
+      "50",
+      "51",
+      "52",
+      "53",
+      "54"
     ],
     "properties": [
       {
@@ -107,7 +111,11 @@
           "pb_glomerulus_L9",
           "pb_glomerulus_R4",
           "pb_glomerulus_R6",
-          "pb_glomerulus_R9"
+          "pb_glomerulus_R9",
+          "NOc_r",
+          "NOm1_r",
+          "NOm2_r",
+          "NOs_r"
         ]
       }
     ]

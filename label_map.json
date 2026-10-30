@@ -10,7 +10,6 @@
     "8": 8,
     "9": 9,
     "10": 10,
-    "12": 12,
     "14": 13,
     "15": 14,
     "16": 15,
@@ -23,10 +22,6 @@
   "/Users/yigityargili/Downloads/bulb_meshes": {
     "1": 29,
     "2": 30
-  },
-  "/Users/yigityargili/Downloads/potu_mesh": {
-    "1": 31,
-    "2": 32
   },
   "/tmp/merge_v3/noduli_stls": {
     "1": 33,
@@ -62,5 +57,18 @@
     "17": 26,
     "18": 50,
     "19": 11
+  },
+  "crantpy_analysis/mesh_creation/potu_meshes_v2.py run 20261029_230619 (synapses_v3_clean, materialization 540)": {
+    "1": 31,
+    "2": 32
+  },
+  "https://raw.githubusercontent.com/yigityargili991/NO_r_meshes_test/5f85aff329dd811e151c8642db86d0cfc1b5b4c0/ (union of its 4 compartments, crantpy_analysis/mesh_creation/nodulus_right_for_lab.py)": {
+    "1": 12
+  },
+  "https://raw.githubusercontent.com/yigityargili991/NO_r_meshes_test/5f85aff329dd811e151c8642db86d0cfc1b5b4c0/": {
+    "1": 51,
+    "2": 52,
+    "3": 53,
+    "4": 54
   }
 }
