@@ -29,14 +29,6 @@
     "3": 35,
     "4": 36
   },
-  "/Users/yigityargili/projects/FB_layers_v1": {
-    "1": 37,
-    "2": 38,
-    "3": 39,
-    "4": 40,
-    "5": 41,
-    "6": 42
-  },
   "https://raw.githubusercontent.com/yigityargili991/pb-meshes-v3/d47a505e622ca4da94645df95e2e56ad590d9643/": {
     "1": 43,
     "2": 44,
@@ -70,5 +62,13 @@
     "2": 52,
     "3": 53,
     "4": 54
+  },
+  "crantpy_analysis/mesh_creation/fb_layers_v2.py run 20261030_121434 (synapses_v3_clean, materialization 541)": {
+    "1": 37,
+    "2": 38,
+    "3": 39,
+    "4": 40,
+    "5": 41,
+    "6": 42
   }
 }
