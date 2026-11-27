@@ -72,5 +72,9 @@
   },
   "crantpy_analysis/mesh_creation/fb_layers_v2.py run 20261030_121434 (synapses_v3_clean, materialization 541); flat pieces removed by crantpy_analysis/mesh_creation/drop_flat_mesh_pieces.py": {
     "1": 37
+  },
+  "crantpy_analysis/mesh_creation/lal_meshes_v2.py run 20261127_174204 (synapses_v3_clean, materialization 560)": {
+    "1": 55,
+    "2": 56
   }
 }

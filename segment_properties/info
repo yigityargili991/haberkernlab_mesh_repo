@@ -55,7 +55,9 @@
       "51",
       "52",
       "53",
-      "54"
+      "54",
+      "55",
+      "56"
     ],
     "properties": [
       {
@@ -115,7 +117,9 @@
           "NOc_r",
           "NOm1_r",
           "NOm2_r",
-          "NOs_r"
+          "NOs_r",
+          "lateral_accessory_lobe_left",
+          "lateral_accessory_lobe_right"
         ]
       }
     ]
